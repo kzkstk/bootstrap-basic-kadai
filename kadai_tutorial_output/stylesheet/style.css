@@ -252,16 +252,6 @@ p {
 
   }
 
-
-  /* シェフ */
-  .chef::after{
-    content: "シェフ";
-  }
-
-  .chef_bg{
-    background-color: #fdf5e6;
-  }
-
 /*  アクセス */
 .access::after{
   content: "アクセス";
